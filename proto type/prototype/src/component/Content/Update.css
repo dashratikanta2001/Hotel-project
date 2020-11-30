@@ -1,0 +1,22 @@
+.locationSelector{
+    margin-top:20px;
+    margin-bottom:40px;
+    text-align:center;
+}
+
+.locationDropDown{
+    /*width:250px;*/
+    height:60px;
+    border-radius:2%;
+    font-size:20px;
+    border:none;
+}
+.add-panel-body{
+    background-color: aquamarine;
+}
+body{
+    background-color: gray;
+}
+.input{
+    height: 45px;
+}

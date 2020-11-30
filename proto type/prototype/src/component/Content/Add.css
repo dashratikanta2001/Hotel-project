@@ -1,0 +1,27 @@
+.locationSelector{
+    margin-top:20px;
+    margin-bottom:40px;
+    text-align:center;
+}
+
+.locationDropDown{
+    /*width:250px;*/
+    height:60px;
+    border-radius:2%;
+    font-size:20px;
+    border:none;
+}
+.add-panel-body{
+    background-color: rgb(191, 194, 11);
+    /*background:url('https://content3.jdmagicbox.com/comp/rourkela/a9/9999px661.x661.170511131851.i7a9/catalogue/the-prestige-hotel-and-convention-civil-township-rourkela-hotels-3p159ypkrs.jpg');
+    background-repeat: no-repeat;*/
+    height: 400px;
+}
+
+body{
+    background-color: gray;
+       background:url('./Healthy-Food-Wood-Gradient-Background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
